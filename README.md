@@ -1,4 +1,4 @@
-# Hi, I'm Shreevarsha 👋
+# Hi, I'm Shreevarsha 
 
 B.Tech CSE @ PES University (2023–2027) · Building at the intersection of AI and real-world systems.
 
@@ -21,7 +21,6 @@ B.Tech CSE @ PES University (2023–2027) · Building at the intersection of AI 
 
 ### 🚀 Projects
 
-- **[AdFidelity](https://github.com/varshasiva08)** — Demographic-faithful ad image generation pipeline using FLUX, LLaVA, and HuggingFace Inference API; includes a BiasTracker module for demographic fairness analysis *(Streamlit, LangChain, Python)*
 - **[EcoScale](https://github.com/varshasiva08/EcoScale)** — Carbon-aware cloud optimizer with a Random Forest forecasting model and SHAP-powered explainability; ~76% reduction in simulated energy cost vs baseline *(React, FastAPI, Scikit-learn)*
 - **[Patent Lifecycle Management System](https://github.com/varshasiva08/Patent-Lifecycle-Management-System)** — Role-based app managing patent filing, review, and renewal with SQL triggers and Plotly dashboards *(Python, Streamlit, MySQL)*
 - **[SQL Injection Detection System](https://github.com/varshasiva08)** — Real-time ML + heuristic detection system integrated into a live web app with forensic event logging *(Flask, Node.js, MySQL)*
