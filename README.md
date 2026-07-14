@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Hi%20There%2C%20I%27m%20Shreevarsha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=100&section=header" width="100%"/>
 
 <a href="https://github.com/varshasiva08">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Shreevarsha+%F0%9F%91%8B;Full-Stack+Developer;Flask+%2B+Node.js+%2B+MySQL" alt="Typing SVG" />
@@ -34,6 +34,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1C1C1C?style=for-the-badge&logoColor=white)
+
 **Frameworks & Libraries**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -52,20 +60,13 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 🧊 3D Contribution Graph
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=varshasiva08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=varshasiva08&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://raw.githubusercontent.com/varshasiva08/varshasiva08/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
-<br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=varshasiva08&theme=tokyo-night&hide_border=true"/>
-</div>
+> ⚠️ This one needs the small GitHub Action from before (`contrib3d.yml`) — it's empty until that runs once.
 
 <br/>
 
@@ -73,12 +74,21 @@
 
 | Project | Description |
 |---|---|
+| **EcoScale** | *(add a one-line description + repo link)* |
+| **GithubXJD** | *(add a one-line description + repo link)* |
 | **SQL Injection Detection System** | ML-based (TF-IDF + Logistic Regression) attack detection, Flask backend + Node/Express frontend, MySQL, bcrypt hashing, OTP 2FA, and an attack analytics dashboard *(add link once pushed)* |
-| [Patent-Lifecycle-Management-System](https://github.com/varshasiva08/Patent-Lifecycle-Management-System) | Web app to track and manage the lifecycle stages of a patent |
-| [Portfolio](https://github.com/varshasiva08/Portfolio) | Personal portfolio website |
-| [my_calculator](https://github.com/varshasiva08/my_calculator) | Calculator built in Python |
 
 📌 *Update the descriptions/links above to match reality, and check out the rest in [Repositories](https://github.com/varshasiva08?tab=repositories).*
+
+<br/>
+
+<div align="center">
+
+### 💭
+*"First, solve the problem. Then, write the code."*
+— John Johnson
+
+</div>
 
 <br/>
 
