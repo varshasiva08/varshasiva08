@@ -60,13 +60,11 @@
 
 <br/>
 
-## 🧊 3D Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/varshasiva08/varshasiva08/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=varshasiva08&theme=tokyo-night&hide_border=true"/>
 </div>
-
-> ⚠️ This one needs the small GitHub Action from before (`contrib3d.yml`) — it's empty until that runs once.
 
 <br/>
 
