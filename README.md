@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Hi%20There%2C%20I%27m%20Shreevarsha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Hi%20There%2C%20I%27m%20Shreevarsha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/varshasiva08">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Shreevarsha+%F0%9F%91%8B;Full-Stack+Developer;Security-Focused+Builder;Flask+%2B+Node.js+%2B+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Shreevarsha+%F0%9F%91%8B;Full-Stack+Developer;Flask+%2B+Node.js+%2B+MySQL" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=varshasiva08&label=Profile%20Views&color=7aa2f7&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/varshasiva08?label=Followers&style=flat&color=bb9af7" alt="followers"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -18,10 +18,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 Student at **PES University**, gearing up for campus placements
-- 🔐 Interested in **application security** — secure auth, and detecting web-based attacks
 - 🛠️ Currently building an **SQL Injection Detection System** — ML-powered (TF-IDF + Logistic Regression) with bcrypt password hashing, OTP-based 2FA, and an attack analytics dashboard
 - 🌱 Always exploring new frameworks across the stack
-- 💬 Ask me about Flask, Express, MySQL, or anything security-related
+- 💬 Ask me about Flask, Express, or MySQL
 
 <br/>
 
@@ -71,38 +70,6 @@
 
 <br/>
 
-## 🗂️ Top Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshasiva08&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=varshasiva08&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshasiva08/varshasiva08/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshasiva08/varshasiva08/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/varshasiva08/varshasiva08/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-</div>
-
-> ⚠️ This one only appears after you set up the GitHub Action in Step 3 below — it's empty until then.
-
-<br/>
-
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -113,17 +80,6 @@
 | [my_calculator](https://github.com/varshasiva08/my_calculator) | Calculator built in Python |
 
 📌 *Update the descriptions/links above to match reality, and check out the rest in [Repositories](https://github.com/varshasiva08?tab=repositories).*
-
-<br/>
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
 
 <br/>
 
