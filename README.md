@@ -1,48 +1,130 @@
-# Hi, I'm Shreevarsha 
+<div align="center">
 
-B.Tech CSE @ PES University (2023–2027) · Building at the intersection of AI and real-world systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Hi%20There%2C%20I%27m%20Shreevarsha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://github.com/varshasiva08">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Shreevarsha+%F0%9F%91%8B;Full-Stack+Developer;Security-Focused+Builder;Flask+%2B+Node.js+%2B+MySQL" alt="Typing SVG" />
+</a>
 
-### 🔧 Tech stack
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=varshasiva08&label=Profile%20Views&color=7aa2f7&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/varshasiva08?label=Followers&style=flat&color=bb9af7" alt="followers"/>
 
----
+</div>
 
-### 🚀 Projects
+<br/>
 
-- **[EcoScale](https://github.com/varshasiva08/EcoScale)** — Carbon-aware cloud optimizer with a Random Forest forecasting model and SHAP-powered explainability; ~76% reduction in simulated energy cost vs baseline *(React, FastAPI, Scikit-learn)*
-- **[Patent Lifecycle Management System](https://github.com/varshasiva08/Patent-Lifecycle-Management-System)** — Role-based app managing patent filing, review, and renewal with SQL triggers and Plotly dashboards *(Python, Streamlit, MySQL)*
-- **[SQL Injection Detection System](https://github.com/varshasiva08)** — Real-time ML + heuristic detection system integrated into a live web app with forensic event logging *(Flask, Node.js, MySQL)*
+## 👩‍💻 About Me
 
----
+- 🎓 Student at **PES University**, gearing up for campus placements
+- 🔐 Interested in **application security** — secure auth, and detecting web-based attacks
+- 🛠️ Currently building an **SQL Injection Detection System** — ML-powered (TF-IDF + Logistic Regression) with bcrypt password hashing, OTP-based 2FA, and an attack analytics dashboard
+- 🌱 Always exploring new frameworks across the stack
+- 💬 Ask me about Flask, Express, MySQL, or anything security-related
 
-### 🌱 Currently
+<br/>
 
-Contributing to open-source AI/web projects via **GirlScript Summer of Code 2026**
+## 🧰 Tech Stack
 
----
+**Languages**
 
-### 🏆 Highlights
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🥈 All India Women Hackathon (WWT) — Ranked 12 / 1076 teams
-- 🏅 Genesys 2.0, PES University — Top 30 / 75 teams (built EcoScale in 24hrs)
-- 🎓 Distinction Award Scholarship — Academic excellence
-- 🔬 Research Intern @ ISFCR, PES University (Jun–Jul 2025)
+**Frameworks & Libraries**
 
----
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 📬 Reach me
+**Databases & Tools**
 
-[![Email](https://img.shields.io/badge/Email-svarsha.siva%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svarsha.siva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shreevarsha--s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreevarsha-s/)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=varshasiva08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=varshasiva08&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=varshasiva08&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<br/>
+
+## 🗂️ Top Languages
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshasiva08&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=varshasiva08&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshasiva08/varshasiva08/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshasiva08/varshasiva08/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/varshasiva08/varshasiva08/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+> ⚠️ This one only appears after you set up the GitHub Action in Step 3 below — it's empty until then.
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **SQL Injection Detection System** | ML-based (TF-IDF + Logistic Regression) attack detection, Flask backend + Node/Express frontend, MySQL, bcrypt hashing, OTP 2FA, and an attack analytics dashboard *(add link once pushed)* |
+| [Patent-Lifecycle-Management-System](https://github.com/varshasiva08/Patent-Lifecycle-Management-System) | Web app to track and manage the lifecycle stages of a patent |
+| [Portfolio](https://github.com/varshasiva08/Portfolio) | Personal portfolio website |
+| [my_calculator](https://github.com/varshasiva08/my_calculator) | Calculator built in Python |
+
+📌 *Update the descriptions/links above to match reality, and check out the rest in [Repositories](https://github.com/varshasiva08?tab=repositories).*
+
+<br/>
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:565f89,100:1a1b27&height=120&section=footer" width="100%"/>
