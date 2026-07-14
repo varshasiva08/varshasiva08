@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Hi%20There%2C%20I%27m%20Shreevarsha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Hi%20There%2C%20I%27m%20Shreevarsha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/varshasiva08">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Shreevarsha+%F0%9F%91%8B;Full-Stack+Developer;Flask+%2B+Node.js+%2B+MySQL" alt="Typing SVG" />
@@ -17,10 +17,9 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Student at **PES University**, gearing up for campus placements
-- 🛠️ Currently building an **SQL Injection Detection System** — ML-powered (TF-IDF + Logistic Regression) with bcrypt password hashing, OTP-based 2FA, and an attack analytics dashboard
+- 🎓 Student at **PES University**
 - 🌱 Always exploring new frameworks across the stack
-- 💬 Ask me about Flask, Express, or MySQL
+- Top 12 in a National level hackathon
 
 <br/>
 
