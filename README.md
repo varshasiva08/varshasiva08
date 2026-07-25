@@ -57,14 +57,11 @@ Ranked **12 / 1,076 (top 1.1%)** at the All India Women Hackathon 2026. Targetin
 
 ## Projects
 
-**[Context-Aware GitHub PR Analysis](https://github.com/varshasiva08/Context-aware-GitHub-PR-analysis)**
-Agentic PR review system — RAG over 6 months of commit history, risk scoring, LLM-generated patch suggestions. Runs 4 output nodes concurrently via asyncio; end-to-end in under 15s. FastAPI + React + ChromaDB + Groq.
-
-**[SQL Injection Detection System](https://github.com/varshasiva08/SQL-Injection-Detection-Using-Heuristic-And-Machine-Learning)**
-3-layer detection: regex heuristics + TF-IDF ensemble (Logistic Regression + Random Forest). 97.8–99.4% F1 on 30k samples. Zero bypasses across 300+ SQLMap payloads. Flask + Node.js + MySQL.
-
-**[EcoScale — Carbon-Aware Cloud Optimization](https://github.com/varshasiva08/EcoScale)**
-Random Forest workload forecasting with SHAP explainability. 76% projected energy cost reduction vs baseline. Top 30/75 at Genesys 2.0 (24-hr hackathon). Team of 4. React + FastAPI + Scikit-learn.
+| Project | Stack | Highlights |
+|---|---|---|
+| [**Context-Aware GitHub PR Analysis**](https://github.com/varshasiva08/Context-aware-GitHub-PR-analysis) | FastAPI · React · ChromaDB · Groq | Agentic PR review with RAG over 6 months of commit history; risk scoring + LLM patch suggestions; 4 nodes concurrent via asyncio, end-to-end < 15s |
+| [**SQL Injection Detection System**](https://github.com/varshasiva08/SQL-Injection-Detection-Using-Heuristic-And-Machine-Learning) | Flask · Scikit-learn · Node.js · MySQL | 3-layer detection; 97.8–99.4% F1 on 30k samples; zero bypasses across 300+ SQLMap payloads |
+| [**EcoScale — Carbon-Aware Cloud Optimization**](https://github.com/varshasiva08/EcoScale) | FastAPI · React · Scikit-learn · SHAP | Random Forest forecasting + SHAP explainability; 76% projected energy cost reduction; Top 30/75 Genesys 2.0 (24-hr hackathon) · Team of 4 |
 
 ---
 
@@ -80,7 +77,6 @@ Closed issues across 2 production AI/web repositories; fixes reviewed and merged
 
 <div align="center">
 
-*"The most dangerous thought you can have as a creative person is to think you know what you're doing."*
-— Bret Victor
+*"Make it work, make it right, make it fast."* — Kent Beck*
 
 </div>
